@@ -1,3 +1,7 @@
+#### Credits
+
+It's react projects that were given by coding addict(https://www.youtube.com/watch?v=ly3m6mv5qvg) in order to get used to react framework.
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
